@@ -1,0 +1,70 @@
+{
+  "name": "andre-nascimento-themes-and-icons-pack",
+  "displayName": "Andre Nascimento Themes and Icons Pack",
+  "description": "Temas e Icones empacotados com os meus favoritos.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ahmadawais.shades-of-purple",
+    "amirhosseinfaraji.angular-dev-theme",
+    "carlowisse.futuristt",
+    "charurajput.shadesofspring",
+    "chireia.darker-plus-material-red",
+    "davidbabel.vscode-simpler-icons",
+    "dracula-theme.theme-dracula",
+    "emmanuelbeziat.vscode-great-icons",
+    "equinusocio.vsc-material-theme-icons",
+    "gerane.theme-red",
+    "ghaschel.vscode-angular-html",
+    "github.github-vscode-theme",
+    "helgardrichard.helium-icon-theme",
+    "hudadamar21.elegant-red",
+    "jackvalley.astral-green",
+    "jamesmaj.easy-icons",
+    "jannisberndt.dark-orange",
+    "johnpapa.winteriscoming",
+    "jwsandeman.cyberpunk2077-theme",
+    "kurtdunn.animatrix",
+    "monokai.theme-monokai-pro-vscode",
+    "noqs.darkstack",
+    "pkief.material-icon-theme",
+    "pkief.material-product-icons",
+    "riley.nova-green",
+    "rocketseat.theme-omni",
+    "rogeraabbccdd.dark-red-theme",
+    "smpl-ndrw.deep-dark-space",
+    "solarliner.linux-themes",
+    "teabyii.ayu",
+    "uloco.theme-bluloco-dark",
+    "vscode-icons-team.vscode-icons",
+    "wesbos.theme-cobalt2",
+    "yiliyl.green-dark-theme",
+    "zhuangtongfa.material-theme"
+  ],
+  "publisher": "andre-s-nascimento",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "icons",
+    "extensions",
+    "pack",
+    "color",
+    "dark"
+  ],
+  "repository": {
+    "url": "https://github.com/andre-s-nascimento/andre-nascimento-themes-and-icons-pack"
+  },
+  "homepage": "https://github.com/andre-s-nascimento/andre-nascimento-themes-and-icons-pack",
+  "bugs": {
+    "url": "https://github.com/andre-s-nascimento/andre-nascimento-themes-and-icons-pack/issues"
+  }
+}
